@@ -31,4 +31,8 @@ public class K extends null implements B {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }

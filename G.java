@@ -31,4 +31,8 @@ public class G extends null implements B {
     public double ee() {
         return 0.000001;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
