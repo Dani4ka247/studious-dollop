@@ -23,4 +23,8 @@ public class G implements B {
     public byte oo() {
         return 3;
     }
+
+    public double ad() {
+        return 12.12;
+    }
 }

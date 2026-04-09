@@ -23,4 +23,8 @@ public class K implements B {
     public double ee() {
         return 100.500;
     }
+
+    public Object pp() {
+        return this;
+    }
 }

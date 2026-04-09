@@ -15,4 +15,8 @@ public class C {
     public int cc() {
         return 13;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }
