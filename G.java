@@ -1,4 +1,4 @@
-public class G implements B {
+public class G extends null implements B {
 
     private byte e = 1;
 
@@ -20,15 +20,31 @@ public class G implements B {
         return 9;
     }
 
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
+
     public byte oo() {
         return 3;
     }
 
-    public double ad() {
-        return 12.12;
-    }
-
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
     }
 }

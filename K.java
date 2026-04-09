@@ -1,4 +1,4 @@
-public class K implements B {
+public class K extends null implements B {
 
     private double a = 100.500;
 
@@ -21,7 +21,7 @@ public class K implements B {
     }
 
     public double ee() {
-        return 100.500;
+        return 0.000001;
     }
 
     public Object pp() {
@@ -30,5 +30,21 @@ public class K implements B {
 
     public int cc() {
         return 13;
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public void ab() {
+        System.out.println();
     }
 }

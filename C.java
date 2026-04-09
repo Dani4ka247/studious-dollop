@@ -1,4 +1,4 @@
-public class C {
+public class C extends null {
 
     private String e = "hello";
 
@@ -22,5 +22,25 @@ public class C {
 
     public void ab() {
         System.out.println();
+    }
+
+    public double ad() {
+        return 11.09;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
     }
 }
