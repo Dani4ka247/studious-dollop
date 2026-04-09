@@ -35,4 +35,8 @@ public class G extends null implements B {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }

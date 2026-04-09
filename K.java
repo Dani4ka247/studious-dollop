@@ -35,4 +35,8 @@ public class K extends null implements B {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }

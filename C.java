@@ -27,4 +27,8 @@ public class C extends null {
     public byte oo() {
         return 2;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }

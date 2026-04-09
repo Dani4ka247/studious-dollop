@@ -11,4 +11,8 @@ public class B extends null {
     public long ac() {
         return 333;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
