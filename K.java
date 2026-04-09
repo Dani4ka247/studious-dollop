@@ -1,4 +1,4 @@
-public class K implements B {
+public class K extends null implements B {
 
     private double a = 100.500;
 
@@ -22,5 +22,9 @@ public class K implements B {
 
     public double ee() {
         return 100.500;
+    }
+
+    public Object pp() {
+        return this;
     }
 }

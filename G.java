@@ -1,4 +1,4 @@
-public class G implements B {
+public class G extends null implements B {
 
     private byte e = 1;
 
@@ -22,5 +22,9 @@ public class G implements B {
 
     public byte oo() {
         return 3;
+    }
+
+    public double ad() {
+        return 12.12;
     }
 }

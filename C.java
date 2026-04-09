@@ -1,4 +1,4 @@
-public class C {
+public class C extends null {
 
     private String e = "hello";
 
@@ -14,5 +14,9 @@ public class C {
 
     public int cc() {
         return 13;
+    }
+
+    public long dd() {
+        return 100500;
     }
 }
