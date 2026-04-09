@@ -51,4 +51,8 @@ public class G extends null implements B {
     public void ab() {
         return;
     }
+
+    public float ff() {
+        return 0;
+    }
 }

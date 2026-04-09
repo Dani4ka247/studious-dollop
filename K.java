@@ -51,4 +51,8 @@ public class K extends null implements B {
     public String kk() {
         return "No";
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }

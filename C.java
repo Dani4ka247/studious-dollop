@@ -47,4 +47,8 @@ public class C extends null {
     public double ee() {
         return 0.000001;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }

@@ -19,4 +19,8 @@ public class B extends null {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
