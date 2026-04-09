@@ -19,4 +19,8 @@ public class K implements B {
     public int ae() {
         return 8;
     }
+
+    public double ee() {
+        return 100.500;
+    }
 }
