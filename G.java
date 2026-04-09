@@ -27,4 +27,8 @@ public class G implements B {
     public double ad() {
         return 12.12;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }

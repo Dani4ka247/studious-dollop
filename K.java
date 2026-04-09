@@ -27,4 +27,8 @@ public class K implements B {
     public Object pp() {
         return this;
     }
+
+    public int cc() {
+        return 13;
+    }
 }

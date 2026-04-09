@@ -19,4 +19,8 @@ public class C {
     public long dd() {
         return 100500;
     }
+
+    public void ab() {
+        System.out.println();
+    }
 }
