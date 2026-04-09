@@ -11,8 +11,4 @@ public class C {
     public String kk() {
         return "No";
     }
-
-    public int cc() {
-        return 13;
-    }
 }
