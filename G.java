@@ -47,4 +47,8 @@ public class G extends null implements B {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public void ab() {
+        return;
+    }
 }

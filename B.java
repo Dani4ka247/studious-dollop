@@ -15,4 +15,8 @@ public class B extends null {
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
