@@ -19,4 +19,8 @@ public class G implements B {
     public int ae() {
         return 9;
     }
+
+    public byte oo() {
+        return 3;
+    }
 }
