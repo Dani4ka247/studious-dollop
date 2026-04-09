@@ -19,4 +19,8 @@ public class C extends null {
     public long dd() {
         return 100500;
     }
+
+    public Object rr() {
+        return null;
+    }
 }

@@ -27,4 +27,8 @@ public class G extends null implements B {
     public double ad() {
         return 12.12;
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
