@@ -1,4 +1,7 @@
+
+
 public class B extends null {
+
 
     Object rr();
 
@@ -21,6 +24,7 @@ public class B extends null {
     }
 
     public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+        Lib.test();
+        return ".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.";
     }
 }
